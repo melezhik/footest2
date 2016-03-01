@@ -1,0 +1,2 @@
+generator: [ module_variable('auth') ? 'private area' : 'login and to back to' ]
+
